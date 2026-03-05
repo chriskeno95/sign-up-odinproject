@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Norse Bold';
-    src: url(../font/norse/Norsebold.otf);
+    src: url(../font/norse/Norsebold.otf) format('opentype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
